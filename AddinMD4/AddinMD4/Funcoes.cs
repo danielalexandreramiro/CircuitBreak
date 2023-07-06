@@ -10,7 +10,7 @@ namespace AddinMD4
         public static string Ola()
         {
             //return new Funcoes2().SubscribeMD4();
-            return new Funcoes2().UsoCircuitBreakAntes();
+           return new Funcoes2().UsoCircuitBreakAntes();
             
             
         }
